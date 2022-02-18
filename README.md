@@ -28,6 +28,5 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](#)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](#)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>](#)
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdann26&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="sdann26" /></p>
